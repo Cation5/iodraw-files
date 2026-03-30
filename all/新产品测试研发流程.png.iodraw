@@ -36,7 +36,7 @@
         <mxCell id="iTPpY45uo10AgiWkkxHO-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-12" target="iTPpY45uo10AgiWkkxHO-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iTPpY45uo10AgiWkkxHO-12" value="测试方案设计（包含测试流程与测试方法）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iTPpY45uo10AgiWkkxHO-12" value="产品电路分析及测试方案设计（包含测试流程与测试方法）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-14" target="iTPpY45uo10AgiWkkxHO-17">
