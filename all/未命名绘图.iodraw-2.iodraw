@@ -42,10 +42,7 @@
           <mxGeometry x="160" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-14" value="是否需要设计测试治具" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="585" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iTPpY45uo10AgiWkkxHO-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="145" y="585" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
