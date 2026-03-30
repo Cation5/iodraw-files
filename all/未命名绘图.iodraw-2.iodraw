@@ -53,7 +53,7 @@
         <mxCell id="iTPpY45uo10AgiWkkxHO-17" value="设计测试治具" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="595" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iTPpY45uo10AgiWkkxHO-19" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iTPpY45uo10AgiWkkxHO-19" value="产品上是否有MCU、SOC等微控制器" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="745" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
