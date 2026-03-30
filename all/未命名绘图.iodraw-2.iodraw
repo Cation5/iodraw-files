@@ -42,6 +42,9 @@
         <mxCell id="iTPpY45uo10AgiWkkxHO-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-14" target="iTPpY45uo10AgiWkkxHO-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iTPpY45uo10AgiWkkxHO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-14" target="iTPpY45uo10AgiWkkxHO-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-14" value="是否需要设计测试治具" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="145" y="440" width="150" height="80" as="geometry" />
         </mxCell>
@@ -62,7 +65,7 @@
           <mxGeometry x="105" y="550" width="230" height="75" as="geometry" />
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-21" value="开发测试程序" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="552.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="557.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-23" target="iTPpY45uo10AgiWkkxHO-25">
           <mxGeometry relative="1" as="geometry" />
