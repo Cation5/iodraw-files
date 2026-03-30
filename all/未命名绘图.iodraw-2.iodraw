@@ -18,16 +18,18 @@
         <mxCell id="iTPpY45uo10AgiWkkxHO-0" value="预览资料，端子线端提采" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iTPpY45uo10AgiWkkxHO-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;文件输出&lt;/h1&gt;&lt;div&gt;《采购申请单》&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="324" y="140" width="180" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-5" target="iTPpY45uo10AgiWkkxHO-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTPpY45uo10AgiWkkxHO-9" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iTPpY45uo10AgiWkkxHO-8">
+          <mxGeometry x="-0.24" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-5" value="产品上是否具有连接器" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="290" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iTPpY45uo10AgiWkkxHO-7" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iTPpY45uo10AgiWkkxHO-7" value="整理输出对应线端BOM" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
