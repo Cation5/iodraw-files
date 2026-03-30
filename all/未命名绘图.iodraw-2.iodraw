@@ -83,8 +83,14 @@
         <mxCell id="iTPpY45uo10AgiWkkxHO-30" value="首批测试" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iTPpY45uo10AgiWkkxHO-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-32" target="iTPpY45uo10AgiWkkxHO-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-32" value="文档输出：&lt;div&gt;1、测试报告&lt;/div&gt;&lt;div&gt;2、测试流程与方法&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iTPpY45uo10AgiWkkxHO-34" value="测试组培训" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
