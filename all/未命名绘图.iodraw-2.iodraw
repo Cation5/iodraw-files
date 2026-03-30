@@ -27,11 +27,6 @@
         <mxCell id="iTPpY45uo10AgiWkkxHO-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-5" target="iTPpY45uo10AgiWkkxHO-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iTPpY45uo10AgiWkkxHO-38" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iTPpY45uo10AgiWkkxHO-13">
-          <mxGeometry x="-0.6987" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-5" value="产品上是否具有连接器" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="230" width="160" height="80" as="geometry" />
         </mxCell>
@@ -76,6 +71,11 @@
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-19" target="iTPpY45uo10AgiWkkxHO-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTPpY45uo10AgiWkkxHO-39" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iTPpY45uo10AgiWkkxHO-29">
+          <mxGeometry x="-0.2226" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-19" value="产品上是否有MCU、SOC等微控制器" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="105" y="550" width="230" height="75" as="geometry" />
