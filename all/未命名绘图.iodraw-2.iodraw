@@ -27,6 +27,11 @@
         <mxCell id="iTPpY45uo10AgiWkkxHO-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-5" target="iTPpY45uo10AgiWkkxHO-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iTPpY45uo10AgiWkkxHO-38" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iTPpY45uo10AgiWkkxHO-13">
+          <mxGeometry x="-0.6987" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-5" value="产品上是否具有连接器" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="230" width="160" height="80" as="geometry" />
         </mxCell>
@@ -42,7 +47,7 @@
         <mxCell id="iTPpY45uo10AgiWkkxHO-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-14" target="iTPpY45uo10AgiWkkxHO-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iTPpY45uo10AgiWkkxHO-37" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iTPpY45uo10AgiWkkxHO-18">
+        <mxCell id="iTPpY45uo10AgiWkkxHO-37" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iTPpY45uo10AgiWkkxHO-18">
           <mxGeometry x="-0.0998" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
