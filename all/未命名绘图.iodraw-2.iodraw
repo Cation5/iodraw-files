@@ -41,7 +41,7 @@
         <mxCell id="iTPpY45uo10AgiWkkxHO-12" value="测试方案设计（包含测试流程与测试方法）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iTPpY45uo10AgiWkkxHO-14" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iTPpY45uo10AgiWkkxHO-14" value="是否需要设计测试治具" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="590" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
