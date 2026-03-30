@@ -1,0 +1,29 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
+    <mxGraphModel dx="1705" dy="1248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="303ed1de8c2c98b4-3" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;保密工作领导小组办公室&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;职责：&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.在单位保密工作领导小组的领导下，贯彻落实国家保密工作的方针政策、保密法规和上级指示，组织落实保密规章制度；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2.组织落实保密工作领导小组的工作部署；&lt;/div&gt;&lt;div&gt;3.组织制定保密基本制度，指导业务部门将保密要求整入业务制度、业务流程；&lt;/div&gt;&lt;div&gt;4.监督指导各部门保密工作；&lt;/div&gt;&lt;div&gt;5.组织确定和调整保密要害部门、部位；&lt;/div&gt;&lt;div&gt;6.组织开展保密日常监督检查和专项检查工作；&lt;/div&gt;&lt;div&gt;7.负责预算、申报和规划使用保密工作经费；&lt;/div&gt;&lt;div&gt;8.负责对各部门保密工作进行考核，提出保密责任追究和奖惩建议。&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=left;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="577" y="230" width="600" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="303ed1de8c2c98b4-4" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;保密办主任：贾临风&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;职责：&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.负责监督指导涉密人员管理、保密教育培训、新闻宣传管理等方面的保密管理工作。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2.对保密工作领导小组的决议进行对应知悉范围的涉密人员进行贯彻。&lt;/div&gt;&lt;div&gt;3.制定公司保密工作计划规划，研究部署本单位保密工作；&lt;/div&gt;&lt;div&gt;4.审查审批公司保密工作重要事项。&lt;/div&gt;&lt;div&gt;5.将保密工作纳入公司日常行政管理和科研生产工作中，听取保密工作情况汇报，研究解决保密工作中的重大问题。&lt;/div&gt;&lt;div&gt;6.组织开展保密风险评估，修订业务管理制度，优化业务流程，制定保密工作方案，落实保密风险防控措施。&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=left;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="572" y="525" width="610" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="303ed1de8c2c98b4-6" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;专职保密员：朱玉兴&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;职责：&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.熟悉保密法律法规、单位保密管理制度和公司保密管理要求；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2.公司保密工作领导小组直接领导下开展保密管理工作，做好保密日常监督、检查、指导、宣传和教育工作；&lt;/div&gt;&lt;div&gt;3.负责建立公司保密工作记录、管理台帐和管理档案；&lt;/div&gt;&lt;div&gt;4.掌握公司涉密资料、载体、密品的管理情况；&lt;/div&gt;&lt;div&gt;5.熟悉了解公司涉密人员情况，及时上报涉密人员动态变化情况；&lt;/div&gt;&lt;div&gt;6.及时发现公司存在的安全保密隐患问题，向本部门保密工作领导小组提出保密工作建议。&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=left;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="572" y="790" width="610" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="303ed1de8c2c98b4-79" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;" parent="1" source="303ed1de8c2c98b4-3" target="303ed1de8c2c98b4-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="303ed1de8c2c98b4-81" style="edgeStyle=elbowEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;" parent="1" source="303ed1de8c2c98b4-4" target="303ed1de8c2c98b4-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="877" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
