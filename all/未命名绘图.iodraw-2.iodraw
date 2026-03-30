@@ -77,8 +77,14 @@
         <mxCell id="iTPpY45uo10AgiWkkxHO-25" value="调试" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iTPpY45uo10AgiWkkxHO-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-30" target="iTPpY45uo10AgiWkkxHO-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-30" value="测试" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iTPpY45uo10AgiWkkxHO-32" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
