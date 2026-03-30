@@ -48,10 +48,9 @@
         <mxCell id="iTPpY45uo10AgiWkkxHO-14" value="是否需要设计测试治具" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="145" y="440" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iTPpY45uo10AgiWkkxHO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iTPpY45uo10AgiWkkxHO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="383" y="540" as="targetPoint" />
-            <mxPoint x="443.0344827586209" y="520" as="sourcePoint" />
+            <mxPoint x="220" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-17" value="设计测试治具" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
