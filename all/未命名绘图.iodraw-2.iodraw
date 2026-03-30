@@ -51,6 +51,11 @@
         <mxCell id="iTPpY45uo10AgiWkkxHO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="520" />
+              <mxPoint x="221" y="520" />
+              <mxPoint x="221" y="530" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-17" value="设计测试治具" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
