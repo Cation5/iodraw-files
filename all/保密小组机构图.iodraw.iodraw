@@ -1,0 +1,51 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
+    <mxGraphModel dx="1461" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="303ed1de8c2c98b4-3" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;沈阳普森科技有限公司保密工作领导小组&lt;/b&gt;&lt;/div&gt;&lt;div&gt;职责：&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.贯彻执行党和国家保密工作的方针政策、法律法规，落实地方保密机构和上级主管部门的管理要求；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2.部署公司保密工作，审查、审批公司保密工作重要事项；&lt;/div&gt;&lt;div&gt;3.组织审定和批准公司保密工作基本制度、信息化策略、年度保密工作计划；&lt;/div&gt;&lt;div&gt;4.建立保密工作例会制度，研究、决策公司保密重点工作措施；&lt;/div&gt;&lt;div&gt;5.组织开展公司保密工作动态情况检查和总结表彰工作；&lt;/div&gt;&lt;div&gt;6.按照公司《泄密事件查处管理规定》工作程序配合上级单位进行泄密案件的查处工作；&lt;/div&gt;&lt;div&gt;7.向上级保密机关报告公司保密工作情况。&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=left;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="566" y="180" width="600" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="303ed1de8c2c98b4-4" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;组长：薛光亮（总经理）&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;职责：&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(1)对单位保密工作负全面领导责任；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;⑵贯彻党和国家保密工作方针、政策和法律法规，并提出明确落实要求；&lt;/div&gt;&lt;div&gt;⑶将保密管理纳入单位管理体系，将保密责任纳入绩效考核；&lt;/div&gt;&lt;div&gt;⑷对单位定密工作负总责，作为单位法定定密责任人，可负责单位涉及的国家秘密事项的确定、变更及解除的审批，可根据工作需要指定单位定密责任人，并明确定密权限；&lt;/div&gt;&lt;div&gt;⑸对保密工作责任制落实情况进行监督考核，每年各部门责任人保密责任落实情况进行一次考核评价；&lt;/div&gt;&lt;div&gt;⑹了解和掌握单位保密工作整体情况，及时研究解决保密工作重大问题；&lt;/div&gt;&lt;div&gt;⑺在人力、财力、物力上为保密工作提供条件保障。&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=left;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="611" y="460" width="510" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="303ed1de8c2c98b4-5" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;成员：王同笑（研发部部长）&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;职责：负责公司定密管理，对公司国家事项的确定、变更、调整方面归口管理；负责公司涉密载体、要害部位保密管理，负责公司信息系统、信息设备存储设备管理。负责技术管理部与质量保证部日常保密管理工作。&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=left;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="431" y="845" width="275" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="303ed1de8c2c98b4-6" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;成员：贾临风（综合部部长）&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;职责：负责落实公司涉密人员、新闻宣传、涉密会议、外事管理等方面的保密管理，负责综合部日常保密工作。&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=left;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="746" y="845" width="275" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="303ed1de8c2c98b4-8" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;成员：张静（制造部部长）&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;职责：负责落实公司协作配套、密品方面、外场试验等方面的保密管理，负责公司生产现场的安全保密管理，负责制造部日常保密工作。&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=left;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="1048" y="845" width="275" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="303ed1de8c2c98b4-79" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;" parent="1" source="303ed1de8c2c98b4-3" target="303ed1de8c2c98b4-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="303ed1de8c2c98b4-80" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;" parent="1" source="303ed1de8c2c98b4-4" target="303ed1de8c2c98b4-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="867" y="805" />
+              <mxPoint x="559" y="805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="303ed1de8c2c98b4-81" style="edgeStyle=elbowEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;" parent="1" source="303ed1de8c2c98b4-4" target="303ed1de8c2c98b4-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="866" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="303ed1de8c2c98b4-83" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;" parent="1" source="303ed1de8c2c98b4-4" target="303ed1de8c2c98b4-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="866" y="805" />
+              <mxPoint x="1176" y="805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
