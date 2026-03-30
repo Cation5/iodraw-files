@@ -30,16 +30,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-5" value="产品上是否具有连接器" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="290" width="160" height="80" as="geometry" />
+          <mxGeometry x="140" y="260" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-7" value="整理输出对应线端BOM" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-12" target="iTPpY45uo10AgiWkkxHO-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-12" value="测试方案设计（包含测试流程与测试方法）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-14" target="iTPpY45uo10AgiWkkxHO-17">
           <mxGeometry relative="1" as="geometry" />
@@ -48,10 +48,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-14" value="是否需要设计测试治具" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="145" y="585" width="150" height="80" as="geometry" />
+          <mxGeometry x="145" y="555" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-17" value="设计测试治具" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="595" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="565" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-19" target="iTPpY45uo10AgiWkkxHO-21">
           <mxGeometry relative="1" as="geometry" />
@@ -60,19 +60,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-19" value="产品上是否有MCU、SOC等微控制器" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="105" y="745" width="230" height="75" as="geometry" />
+          <mxGeometry x="105" y="715" width="230" height="75" as="geometry" />
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-21" value="开发测试程序" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="752.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="722.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTPpY45uo10AgiWkkxHO-23" target="iTPpY45uo10AgiWkkxHO-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iTPpY45uo10AgiWkkxHO-23" value="调试" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="907.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="877.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iTPpY45uo10AgiWkkxHO-25" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1047.5" width="120" height="60" as="geometry" />
+        <mxCell id="iTPpY45uo10AgiWkkxHO-25" value="测试" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1017.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
