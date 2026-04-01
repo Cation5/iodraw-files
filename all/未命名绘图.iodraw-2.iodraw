@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-2" value="气源输入&lt;div&gt;0.8Map&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-3" value="减压阀" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="310" width="120" height="60" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="830" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-16" value="电源&lt;div&gt;DC24V 100W&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-17" value="电源开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="750" width="120" height="60" as="geometry" />
