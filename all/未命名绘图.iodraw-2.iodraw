@@ -59,7 +59,10 @@
           <mxGeometry x="260" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-19" value="数字气压表&lt;div&gt;压力传感器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="767" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3gZUKo3rGNLiVONSF2Kx-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
