@@ -87,6 +87,11 @@
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-17" value="电源开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="580" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3gZUKo3rGNLiVONSF2Kx-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3gZUKo3rGNLiVONSF2Kx-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="610.2941176470588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-18" value="急停按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="580" width="120" height="60" as="geometry" />
         </mxCell>
