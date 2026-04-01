@@ -56,7 +56,7 @@
           <mxGeometry x="970" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-16" value="电源&lt;div&gt;DC24V 100W&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3gZUKo3rGNLiVONSF2Kx-17">
           <mxGeometry relative="1" as="geometry">
