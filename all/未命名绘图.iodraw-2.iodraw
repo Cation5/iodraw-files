@@ -118,11 +118,26 @@
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-21" value="模块-6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3gZUKo3rGNLiVONSF2Kx-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3gZUKo3rGNLiVONSF2Kx-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-22" value="模块-2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3gZUKo3rGNLiVONSF2Kx-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3gZUKo3rGNLiVONSF2Kx-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-23" value="模块-3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3gZUKo3rGNLiVONSF2Kx-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3gZUKo3rGNLiVONSF2Kx-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-24" value="模块-4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="400" width="120" height="60" as="geometry" />
