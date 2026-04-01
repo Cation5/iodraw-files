@@ -43,11 +43,11 @@
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-13" value="传感器输入-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3gZUKo3rGNLiVONSF2Kx-14" value="传感器输入-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3gZUKo3rGNLiVONSF2Kx-14" value="传感器输入-6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-15" value="传感器输入-6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="830" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
