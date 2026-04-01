@@ -23,10 +23,10 @@
           <mxGeometry x="740" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-7" value="气压输出-4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-8" value="气压输出-5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-9" value="气压输出-6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="60" width="120" height="60" as="geometry" />
