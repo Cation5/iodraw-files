@@ -61,9 +61,6 @@
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-14" value="传感器输入-5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3gZUKo3rGNLiVONSF2Kx-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3gZUKo3rGNLiVONSF2Kx-15" target="3gZUKo3rGNLiVONSF2Kx-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-15" value="传感器输入-6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -140,8 +137,8 @@
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3gZUKo3rGNLiVONSF2Kx-26" target="3gZUKo3rGNLiVONSF2Kx-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1290" y="130" />
-              <mxPoint x="1310" y="130" />
+              <mxPoint x="1290" y="180" />
+              <mxPoint x="1310" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
