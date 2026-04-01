@@ -38,7 +38,7 @@
           <mxGeometry x="210" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-12" value="传感器输入-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gZUKo3rGNLiVONSF2Kx-13" value="传感器输入-4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="570" width="120" height="60" as="geometry" />
