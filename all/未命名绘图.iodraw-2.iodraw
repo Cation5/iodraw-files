@@ -74,7 +74,7 @@
           <mxGeometry x="550" y="399" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EuNt3agA47uxixxPzKw1-19" value="路由器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
