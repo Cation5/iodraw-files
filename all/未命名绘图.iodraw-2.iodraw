@@ -85,8 +85,8 @@
             <mxPoint x="610" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EuNt3agA47uxixxPzKw1-24" value="MQTT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="110" width="90" height="30" as="geometry" />
+        <mxCell id="EuNt3agA47uxixxPzKw1-24" value="公网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="645" y="110" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
