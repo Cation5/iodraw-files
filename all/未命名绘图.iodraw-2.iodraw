@@ -58,7 +58,7 @@
             <mxPoint x="670" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EuNt3agA47uxixxPzKw1-16" value="有线以太网（MQTT）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EuNt3agA47uxixxPzKw1-16" value="网线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="240" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EuNt3agA47uxixxPzKw1-17" value="RS485" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -76,7 +76,7 @@
             <mxPoint x="610" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EuNt3agA47uxixxPzKw1-22" value="RS485" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EuNt3agA47uxixxPzKw1-22" value="WIFI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
