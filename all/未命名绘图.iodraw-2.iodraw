@@ -64,7 +64,7 @@
             <mxPoint x="780" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EuNt3agA47uxixxPzKw1-16" value="有线以太网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EuNt3agA47uxixxPzKw1-16" value="有线以太网（MQTT）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="250" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
