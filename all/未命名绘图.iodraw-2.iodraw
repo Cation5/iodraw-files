@@ -16,7 +16,7 @@
         <mxCell id="EuNt3agA47uxixxPzKw1-4" value="IPC监控云台对讲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EuNt3agA47uxixxPzKw1-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EuNt3agA47uxixxPzKw1-5" value="厕间数据监控设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
