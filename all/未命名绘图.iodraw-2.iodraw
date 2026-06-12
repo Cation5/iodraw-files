@@ -62,10 +62,10 @@
           <mxGeometry x="640" y="240" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EuNt3agA47uxixxPzKw1-17" value="RS485" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="399" width="60" height="30" as="geometry" />
+          <mxGeometry x="470" y="399" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EuNt3agA47uxixxPzKw1-18" value="RS485" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="399" width="60" height="30" as="geometry" />
+          <mxGeometry x="660" y="399" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EuNt3agA47uxixxPzKw1-19" value="路由器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="160" width="120" height="60" as="geometry" />
@@ -75,6 +75,9 @@
             <mxPoint x="560" y="230" as="sourcePoint" />
             <mxPoint x="610" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EuNt3agA47uxixxPzKw1-22" value="RS485" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="409" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
