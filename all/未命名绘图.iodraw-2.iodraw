@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EuNt3agA47uxixxPzKw1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EuNt3agA47uxixxPzKw1-1" target="EuNt3agA47uxixxPzKw1-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EuNt3agA47uxixxPzKw1-1" value="沈阳城市大脑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="150" width="120" height="60" as="geometry" />
         </mxCell>
