@@ -67,7 +67,7 @@
         <mxCell id="EuNt3agA47uxixxPzKw1-16" value="有线以太网（MQTT）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="250" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EuNt3agA47uxixxPzKw1-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EuNt3agA47uxixxPzKw1-17" value="RS485" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="399" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
