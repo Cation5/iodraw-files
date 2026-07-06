@@ -25,8 +25,8 @@
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-8" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-9" value="主板通过J1端子中的地址总线信号线、数据总线信号线、数据总线使能信号线、数据总线写信号线来进行正交计数器芯片初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="617" y="160" width="220" height="60" as="geometry" />
+        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-9" value="主板通过J1端子中的地址总线信号线、数据总线信号线、数据总线使能信号线、数据总线写信号线来控制正交计数芯片将编码计数值输出至芯片输出端口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
