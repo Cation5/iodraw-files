@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="bdgLWAZ4ZeEOto2i9R8Z">
-    <mxGraphModel dx="1581" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="3235" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="657" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-11" value="电机转动时编码盘产生AB相差分信号输出给Encoder板卡（J2、J4、J5、J7、J8、J10、J11、J13端子）" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="400" width="200" height="100" as="geometry" />
+          <mxGeometry x="-50" y="430" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
