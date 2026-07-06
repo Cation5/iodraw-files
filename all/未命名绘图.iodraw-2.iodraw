@@ -16,7 +16,7 @@
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-5" value="差分转单端芯片将差分信号转换为单端信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-5" value="差分转单端芯片将差分信号转换为单端信号输出给正交计数器芯片计数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
