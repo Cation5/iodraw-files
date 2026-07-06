@@ -18,11 +18,14 @@
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-2" value="主板通过J1端子中的地址总线信号线、数据总线信号线、数据总线使能信号线、数据总线写信号线来进行正交计数器芯片初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="150" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SzFOm2bC3Rx-NMfJFR6D-4" target="SzFOm2bC3Rx-NMfJFR6D-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-4" value="主板定期通过J1端子中的地址总线信号线、数据总线信号线、数据总线使能信号线、数据总线写信号线、数据总线读信号线来进行正交计数器芯片内部计数的读取，以获取电机实时位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="270" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-5" value="差分转单端芯片将差分信号转换为单端信号输出给正交计数器芯片计数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-10" value="结束（设备断电）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="400" width="120" height="60" as="geometry" />
@@ -31,7 +34,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;电机转动时编码盘产生AB相差分信号输出给&amp;nbsp; &amp;nbsp;Encoder板卡（J2、J4、J5、J7、J8、J10、J11、J13端子）&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="110" y="250" width="270" height="60" as="geometry" />
+          <mxGeometry x="110" y="280" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
