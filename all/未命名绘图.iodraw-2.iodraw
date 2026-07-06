@@ -8,7 +8,7 @@
           <mxGeometry x="650" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-2" value="主板通过地址总线信号线、数据总线信号线、数据总线使能信号线、数据总线写信号线来进行编码器芯片初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="160" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-3" value="电机转动，编码盘产生AB相差分信号输入给Encoder板卡" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="300" width="270" height="60" as="geometry" />
