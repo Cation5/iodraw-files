@@ -14,19 +14,16 @@
           <mxGeometry x="617" y="340" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-5" value="差分转单端芯片将差分信号转换为单端信号输出给正交计数器芯片计数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-6" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-7" value="电机转动时编码盘产生AB相差分信号输出给Encoder板卡（J2、J4、J5、J7、J8、J10、J11、J13端子）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="250" width="230" height="60" as="geometry" />
+          <mxGeometry x="430" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-10" value="结束（设备断电）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="657" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SzFOm2bC3Rx-NMfJFR6D-11" target="SzFOm2bC3Rx-NMfJFR6D-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;电机转动时编码盘产生AB相差分信号输出给&amp;nbsp; &amp;nbsp;Encoder板卡（J2、J4、J5、J7、J8、J10、J11、J13端子）&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="460" width="270" height="60" as="geometry" />
+          <mxGeometry x="110" y="250" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
