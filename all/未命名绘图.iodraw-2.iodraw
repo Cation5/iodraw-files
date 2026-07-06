@@ -21,7 +21,7 @@
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SzFOm2bC3Rx-NMfJFR6D-4" target="SzFOm2bC3Rx-NMfJFR6D-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-4" value="主板定期通过J1端子中的地址总线信号线、数据总线信号线、数据总线使能信号线、数据总线写信号线、数据总线读信号线来进行正交计数器芯片内部计数的读取，以获取电机实时位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-4" value="主板每125ms通过J1端子中的地址总线信号线、数据总线信号线、数据总线使能信号线、数据总线写信号线、数据总线读信号线来进行正交计数器芯片内部计数的读取，以获取电机实时位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="270" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SzFOm2bC3Rx-NMfJFR6D-5" target="SzFOm2bC3Rx-NMfJFR6D-4">
