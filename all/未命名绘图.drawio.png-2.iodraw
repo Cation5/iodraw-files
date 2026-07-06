@@ -1,0 +1,45 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="bdgLWAZ4ZeEOto2i9R8Z">
+    <mxGraphModel dx="1581" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SzFOm2bC3Rx-NMfJFR6D-1" target="SzFOm2bC3Rx-NMfJFR6D-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-1" value="开始（设备上电）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SzFOm2bC3Rx-NMfJFR6D-2" target="SzFOm2bC3Rx-NMfJFR6D-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-2" value="主板通过J1端子中的地址总线信号线、数据总线信号线、数据总线使能信号线、数据总线写信号线来进行正交计数器芯片初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="150" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SzFOm2bC3Rx-NMfJFR6D-4" target="SzFOm2bC3Rx-NMfJFR6D-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-4" value="主板每125ms通过J1端子中的地址总线信号线、数据总线信号线、数据总线使能信号线、数据总线写信号线、数据总线读信号线来进行正交计数器芯片内部计数的读取，以获取电机实时位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="270" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SzFOm2bC3Rx-NMfJFR6D-5" target="SzFOm2bC3Rx-NMfJFR6D-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-5" value="差分转单端芯片将差分信号转换为单端信号输出给正交计数器芯片计数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-10" value="结束（设备断电）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SzFOm2bC3Rx-NMfJFR6D-11" target="SzFOm2bC3Rx-NMfJFR6D-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;电机转动时编码盘产生AB相差分信号输出给&amp;nbsp; &amp;nbsp;Encoder板卡（J2、J4、J5、J7、J8、J10、J11、J13端子）&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="270" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
