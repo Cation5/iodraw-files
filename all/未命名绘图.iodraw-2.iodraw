@@ -8,7 +8,7 @@
           <mxGeometry x="650" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-2" value="主板通过J1端子中的地址总线信号线、数据总线信号线、数据总线使能信号线、数据总线写信号线来进行正交计数器芯片初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="607" y="150" width="220" height="60" as="geometry" />
+          <mxGeometry x="600" y="150" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-4" value="主板定期通过J1端子中的地址总线信号线、数据总线信号线、数据总线使能信号线、数据总线写信号线、数据总线读信号线来进行正交计数器芯片内部计数的读取，以获取电机实时位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="617" y="340" width="210" height="80" as="geometry" />
@@ -26,9 +26,6 @@
           <mxGeometry x="110" y="250" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SzFOm2bC3Rx-NMfJFR6D-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.464;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SzFOm2bC3Rx-NMfJFR6D-1" target="SzFOm2bC3Rx-NMfJFR6D-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SzFOm2bC3Rx-NMfJFR6D-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.471;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SzFOm2bC3Rx-NMfJFR6D-2" target="SzFOm2bC3Rx-NMfJFR6D-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
