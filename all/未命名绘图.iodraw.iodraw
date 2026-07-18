@@ -10,7 +10,7 @@
         <mxCell id="AMxTJNvhikRYzYd3Xsh--3" value="是否为新产品" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="250" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AMxTJNvhikRYzYd3Xsh--4" value="FCT测试项目立项" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="AMxTJNvhikRYzYd3Xsh--4" value="FCT项目立项" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="340" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AMxTJNvhikRYzYd3Xsh--5" value="是否需要设计测试治具" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="AMxTJNvhikRYzYd3Xsh--7" value="是否需要开发测试代码" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="290" y="620" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AMxTJNvhikRYzYd3Xsh--8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="340" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
