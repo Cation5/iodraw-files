@@ -80,6 +80,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AMxTJNvhikRYzYd3Xsh--27" value="整改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="AMxTJNvhikRYzYd3Xsh--21">
+          <mxGeometry x="-0.1907" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AMxTJNvhikRYzYd3Xsh--13" value="测试方案评审是否通过" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="290" y="467" width="220" height="80" as="geometry" />
         </mxCell>
