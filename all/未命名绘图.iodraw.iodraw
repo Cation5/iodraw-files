@@ -27,9 +27,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AMxTJNvhikRYzYd3Xsh--24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="AMxTJNvhikRYzYd3Xsh--23">
+        <mxCell id="AMxTJNvhikRYzYd3Xsh--24" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="AMxTJNvhikRYzYd3Xsh--23">
           <mxGeometry x="-0.9096" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-27" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AMxTJNvhikRYzYd3Xsh--3" value="是否为首件" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=0;" vertex="1" parent="1">
