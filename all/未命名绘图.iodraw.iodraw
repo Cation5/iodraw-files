@@ -139,8 +139,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AMxTJNvhikRYzYd3Xsh--45" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="AMxTJNvhikRYzYd3Xsh--44">
+        <mxCell id="AMxTJNvhikRYzYd3Xsh--45" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="AMxTJNvhikRYzYd3Xsh--44">
           <mxGeometry x="-0.8" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMxTJNvhikRYzYd3Xsh--46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="AMxTJNvhikRYzYd3Xsh--44">
+          <mxGeometry x="-0.1385" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
