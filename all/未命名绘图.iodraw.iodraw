@@ -54,7 +54,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AMxTJNvhikRYzYd3Xsh--21" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="AMxTJNvhikRYzYd3Xsh--13" target="AMxTJNvhikRYzYd3Xsh--2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="507" />
+              <mxPoint x="560" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="AMxTJNvhikRYzYd3Xsh--13" value="测试方案评审是否通过" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="290" y="467" width="220" height="80" as="geometry" />
