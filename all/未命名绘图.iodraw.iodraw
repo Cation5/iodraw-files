@@ -10,6 +10,9 @@
         <mxCell id="AMxTJNvhikRYzYd3Xsh--3" value="是否为首件" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="250" width="220" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="AMxTJNvhikRYzYd3Xsh--15" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="AMxTJNvhikRYzYd3Xsh--4" target="AMxTJNvhikRYzYd3Xsh--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AMxTJNvhikRYzYd3Xsh--4" value="FCT项目立项" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="340" y="140" width="120" height="60" as="geometry" />
         </mxCell>
@@ -26,7 +29,7 @@
           <mxGeometry x="340" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AMxTJNvhikRYzYd3Xsh--10" value="设计测试治具" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
-          <mxGeometry x="585" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AMxTJNvhikRYzYd3Xsh--11" value="开发测试代码" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="340" y="827" width="120" height="60" as="geometry" />
