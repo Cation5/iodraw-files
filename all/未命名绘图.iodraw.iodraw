@@ -52,7 +52,7 @@
         <mxCell id="AMxTJNvhikRYzYd3Xsh--31" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="AMxTJNvhikRYzYd3Xsh--5" target="AMxTJNvhikRYzYd3Xsh--7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AMxTJNvhikRYzYd3Xsh--32" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="AMxTJNvhikRYzYd3Xsh--31">
+        <mxCell id="AMxTJNvhikRYzYd3Xsh--32" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="AMxTJNvhikRYzYd3Xsh--31">
           <mxGeometry x="-0.45" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -62,6 +62,9 @@
         </mxCell>
         <mxCell id="AMxTJNvhikRYzYd3Xsh--6" value="按测试方案进行测试" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="340" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AMxTJNvhikRYzYd3Xsh--33" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="AMxTJNvhikRYzYd3Xsh--7" target="AMxTJNvhikRYzYd3Xsh--11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AMxTJNvhikRYzYd3Xsh--7" value="是否需要开发测试代码" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="290" y="710" width="220" height="80" as="geometry" />
