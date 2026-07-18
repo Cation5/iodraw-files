@@ -34,6 +34,9 @@
         <mxCell id="AMxTJNvhikRYzYd3Xsh--13" value="测试方案评审是否通过" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="290" y="467" width="220" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="AMxTJNvhikRYzYd3Xsh--14" value="开发测试代码" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="350" y="837" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
