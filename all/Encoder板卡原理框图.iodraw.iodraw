@@ -34,6 +34,12 @@
         <mxCell id="10grFd4DKQfGOgiVR-Dq-10" value="主板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="220" y="850" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="630" as="sourcePoint" />
+            <mxPoint x="610" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
