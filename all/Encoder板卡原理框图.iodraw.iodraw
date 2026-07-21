@@ -19,7 +19,7 @@
         <mxCell id="10grFd4DKQfGOgiVR-Dq-5" value="计数器芯片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-6" value="8位缓冲器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
