@@ -13,8 +13,8 @@
         <mxCell id="10grFd4DKQfGOgiVR-Dq-3" value="差分转单端芯片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-4" value="Encoder板卡" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="720" y="950" width="90" height="30" as="geometry" />
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-4" value="Encoder板卡" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="780" y="950" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
