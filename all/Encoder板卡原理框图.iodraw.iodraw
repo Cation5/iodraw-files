@@ -10,7 +10,7 @@
         <mxCell id="10grFd4DKQfGOgiVR-Dq-2" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-3" value="差分转单端芯片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-3" value="差分转单端（AM26LS32）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="10grFd4DKQfGOgiVR-Dq-4" value="Encoder板卡" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
