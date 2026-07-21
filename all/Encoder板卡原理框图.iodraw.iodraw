@@ -29,9 +29,9 @@
           <mxGeometry x="420" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="10grFd4DKQfGOgiVR-Dq-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="830" width="360" height="140" as="geometry" />
+          <mxGeometry x="200" y="830" width="630" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-10" value="Encoder板卡" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-10" value="主板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="220" y="850" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
