@@ -45,6 +45,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.067;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.058;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="829" as="sourcePoint" />
+            <mxPoint x="330" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-14" value="地址信号（4bit）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="10grFd4DKQfGOgiVR-Dq-13">
+          <mxGeometry x="0.0711" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
