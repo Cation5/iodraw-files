@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Jqiu4aFJi1pzU_1WUV0w">
-    <mxGraphModel dx="2074" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,10 +34,15 @@
         <mxCell id="10grFd4DKQfGOgiVR-Dq-10" value="主板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="220" y="850" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.067;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.064;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="10grFd4DKQfGOgiVR-Dq-9" target="10grFd4DKQfGOgiVR-Dq-1">
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.067;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.058;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="10grFd4DKQfGOgiVR-Dq-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="630" as="sourcePoint" />
-            <mxPoint x="610" y="580" as="targetPoint" />
+            <mxPoint x="240.00000000000003" y="830" as="sourcePoint" />
+            <mxPoint x="241.95000000000007" y="729.06" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="10grFd4DKQfGOgiVR-Dq-11">
+          <mxGeometry x="0.0711" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
