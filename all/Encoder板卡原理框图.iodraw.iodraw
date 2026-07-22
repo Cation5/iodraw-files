@@ -1,58 +1,237 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Jqiu4aFJi1pzU_1WUV0w">
-    <mxGraphModel dx="830" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="3243" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="260" width="690" height="470" as="geometry" />
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="300" width="920" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-2" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-2" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-3" value="差分转单端（AM26LS32）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-3" value="差分转单端（AM26LS32）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="320" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-4" value="Encoder板卡" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="220" y="290" width="90" height="30" as="geometry" />
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-4" value="Encoder板卡" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="390" y="580" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-5" value="计数器&lt;div&gt;（LS7267）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-5" value="计数器&lt;div&gt;（LS7267）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="440" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-6" value="8位缓冲器（74HC244）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-6" value="8位缓冲器（74HC244）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="560" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-7" value="8位收发器（74HC244）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-7" value="8位收发器（74HC245）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="560" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-8" value="CPLD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-8" value="PLD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="320" width="720" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="830" width="630" height="140" as="geometry" />
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="680" width="920" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-10" value="主板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="220" y="850" width="90" height="30" as="geometry" />
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-10" value="主板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-25" y="685" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.067;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.058;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="10grFd4DKQfGOgiVR-Dq-1">
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.08;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240.00000000000003" y="830" as="sourcePoint" />
-            <mxPoint x="241.95000000000007" y="729.06" as="targetPoint" />
+            <mxPoint x="-160" y="680" as="sourcePoint" />
+            <mxPoint x="-160.0000000000001" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-12" value="地址信号（4bit）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="10grFd4DKQfGOgiVR-Dq-11">
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-12" value="数据总线信号（8bit）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-11" vertex="1" connectable="0">
           <mxGeometry x="0.0711" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.067;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.058;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-23" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="829" as="sourcePoint" />
-            <mxPoint x="330" y="730" as="targetPoint" />
+            <mxPoint x="39" y="680" as="sourcePoint" />
+            <mxPoint x="40" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10grFd4DKQfGOgiVR-Dq-14" value="地址信号（4bit）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="10grFd4DKQfGOgiVR-Dq-13">
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-24" value="地址信号（8bit）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.0215" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119.5" y="680" as="sourcePoint" />
+            <mxPoint x="120.5" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-26" value="读信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.0215" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.651;entryY=0.976;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="10grFd4DKQfGOgiVR-Dq-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199" y="679" as="sourcePoint" />
+            <mxPoint x="201" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-29" value="写信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-28" vertex="1" connectable="0">
+          <mxGeometry x="-0.0215" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.08;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="560" as="sourcePoint" />
+            <mxPoint x="-320.0000000000001" y="480.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-32" value="数据总线信号（8bit）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-31" vertex="1" connectable="0">
           <mxGeometry x="0.0711" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-35" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;exitX=0.913;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.869;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="10grFd4DKQfGOgiVR-Dq-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359.99999999999966" y="361.40000000000003" as="sourcePoint" />
+            <mxPoint x="363.7599999999999" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-36" value="输出使能信号（4bit）&lt;div&gt;（控制主板端&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;74HC245&lt;/span&gt;）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-35" vertex="1" connectable="0">
+          <mxGeometry x="-0.0215" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-37" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="560" as="sourcePoint" />
+            <mxPoint x="50" y="361.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-38" value="地址信号（4bit）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-37" vertex="1" connectable="0">
+          <mxGeometry x="-0.0215" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.555;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="10grFd4DKQfGOgiVR-Dq-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119.66" y="558.44" as="sourcePoint" />
+            <mxPoint x="119.85999999999981" y="479.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-40" value="读信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-39" vertex="1" connectable="0">
+          <mxGeometry x="-0.0215" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.664;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="10grFd4DKQfGOgiVR-Dq-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="560" as="sourcePoint" />
+            <mxPoint x="200" y="481" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-42" value="写信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-41" vertex="1" connectable="0">
+          <mxGeometry x="-0.0215" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-43" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;exitX=0.777;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="10grFd4DKQfGOgiVR-Dq-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279.99999999999983" y="481.6199999999999" as="sourcePoint" />
+            <mxPoint x="280.8" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-44" value="输出使能信号（2bit）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-43" vertex="1" connectable="0">
+          <mxGeometry x="-0.0215" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-45" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200.29" y="480.00000000000006" as="sourcePoint" />
+            <mxPoint x="-200.29" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-46" value="方向控制信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-45" vertex="1" connectable="0">
+          <mxGeometry x="-0.0215" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-49" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="480" as="sourcePoint" />
+            <mxPoint x="-80" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-50" value="输出使能信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-49" vertex="1" connectable="0">
+          <mxGeometry x="-0.0215" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-51" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120.17" y="360" as="sourcePoint" />
+            <mxPoint x="-120.17" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-52" value="C\D控制信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-51" vertex="1" connectable="0">
+          <mxGeometry x="-0.0215" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-53" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="360" as="sourcePoint" />
+            <mxPoint x="-40" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-54" value="X\Y通道选择信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-53" vertex="1" connectable="0">
+          <mxGeometry x="-0.0215" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-59" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="360" as="sourcePoint" />
+            <mxPoint x="-180" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-60" value="读信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-59" vertex="1" connectable="0">
+          <mxGeometry x="-0.0215" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-61" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="360" as="sourcePoint" />
+            <mxPoint x="-220" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-62" value="写信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-61" vertex="1" connectable="0">
+          <mxGeometry x="-0.0215" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-63" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-345.29" y="360" as="sourcePoint" />
+            <mxPoint x="-345.29" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-64" value="编码器信号（A、B、Z）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-63" vertex="1" connectable="0">
+          <mxGeometry x="-0.0215" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-65" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-345.29" y="240" as="sourcePoint" />
+            <mxPoint x="-345.29" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10grFd4DKQfGOgiVR-Dq-66" value="编码器信号（A+、A-、B+、B-、Z+、Z-）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10grFd4DKQfGOgiVR-Dq-65" vertex="1" connectable="0">
+          <mxGeometry x="-0.0215" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
