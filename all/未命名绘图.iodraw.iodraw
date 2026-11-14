@@ -53,14 +53,14 @@
         <mxCell id="F7tjddV0UOPaG33svuhe-9" value="上针床" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="670" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F7tjddV0UOPaG33svuhe-17" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="F7tjddV0UOPaG33svuhe-17" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="384.5" as="sourcePoint" />
             <mxPoint x="1060" y="384.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F7tjddV0UOPaG33svuhe-19" value="CAN总线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="705" y="318" width="70" height="30" as="geometry" />
+          <mxGeometry x="730" y="350" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
