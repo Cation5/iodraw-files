@@ -88,7 +88,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F7tjddV0UOPaG33svuhe-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7tjddV0UOPaG33svuhe-7" target="F7tjddV0UOPaG33svuhe-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="808" y="640" />
+              <mxPoint x="975" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="F7tjddV0UOPaG33svuhe-7" value="治具转接板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="570" width="90" height="40" as="geometry" />
@@ -103,6 +108,14 @@
         </mxCell>
         <mxCell id="F7tjddV0UOPaG33svuhe-8" value="下针床" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="660" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F7tjddV0UOPaG33svuhe-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7tjddV0UOPaG33svuhe-9" target="F7tjddV0UOPaG33svuhe-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="975" y="640" />
+              <mxPoint x="808" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="F7tjddV0UOPaG33svuhe-9" value="上针床" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="660" width="90" height="40" as="geometry" />
