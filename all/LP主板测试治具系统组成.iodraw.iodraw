@@ -171,8 +171,8 @@
             <mxPoint x="920" y="679.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yjpvyTGEs5IKcmOO-jDF-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="720" width="60" height="30" as="geometry" />
+        <mxCell id="yjpvyTGEs5IKcmOO-jDF-2" value="单轴压紧结构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="720" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
