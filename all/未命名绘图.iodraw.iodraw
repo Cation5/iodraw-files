@@ -26,7 +26,10 @@
           <mxGeometry x="670" y="570" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F7tjddV0UOPaG33svuhe-8" value="下针床" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="670" width="90" height="40" as="geometry" />
+          <mxGeometry x="550" y="670" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F7tjddV0UOPaG33svuhe-9" value="上针床" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="680" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
