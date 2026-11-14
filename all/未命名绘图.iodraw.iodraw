@@ -48,10 +48,10 @@
           <mxGeometry x="740" y="570" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F7tjddV0UOPaG33svuhe-8" value="下针床" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="660" width="90" height="40" as="geometry" />
+          <mxGeometry x="560" y="660" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F7tjddV0UOPaG33svuhe-9" value="上针床" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="660" width="90" height="40" as="geometry" />
+          <mxGeometry x="890" y="660" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F7tjddV0UOPaG33svuhe-17" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
