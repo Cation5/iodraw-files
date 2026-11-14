@@ -5,13 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="F7tjddV0UOPaG33svuhe-1" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="60" y="360" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="F7tjddV0UOPaG33svuhe-2" value="治具主板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="360" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="F7tjddV0UOPaG33svuhe-3" value="治具功能模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="560" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F7tjddV0UOPaG33svuhe-4" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
