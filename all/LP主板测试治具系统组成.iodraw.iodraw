@@ -108,6 +108,11 @@
         <mxCell id="yjpvyTGEs5IKcmOO-jDF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7tjddV0UOPaG33svuhe-7" target="F7tjddV0UOPaG33svuhe-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yjpvyTGEs5IKcmOO-jDF-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yjpvyTGEs5IKcmOO-jDF-4">
+          <mxGeometry x="0.2247" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="F7tjddV0UOPaG33svuhe-7" value="治具转接板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="570" width="90" height="40" as="geometry" />
         </mxCell>
