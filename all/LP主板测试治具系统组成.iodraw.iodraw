@@ -189,10 +189,10 @@
         <mxCell id="yjpvyTGEs5IKcmOO-jDF-2" value="针床压紧结构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="720" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yjpvyTGEs5IKcmOO-jDF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yjpvyTGEs5IKcmOO-jDF-6" target="F7tjddV0UOPaG33svuhe-2">
+        <mxCell id="yjpvyTGEs5IKcmOO-jDF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yjpvyTGEs5IKcmOO-jDF-6" target="F7tjddV0UOPaG33svuhe-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yjpvyTGEs5IKcmOO-jDF-6" value="治具功能模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yjpvyTGEs5IKcmOO-jDF-6" value="扫码枪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="450" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
