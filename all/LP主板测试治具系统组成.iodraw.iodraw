@@ -25,7 +25,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yjpvyTGEs5IKcmOO-jDF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7tjddV0UOPaG33svuhe-2" target="F7tjddV0UOPaG33svuhe-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="515" y="590" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="F7tjddV0UOPaG33svuhe-2" value="治具主板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="360" width="90" height="50" as="geometry" />
@@ -100,6 +104,9 @@
               <mxPoint x="975" y="640" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yjpvyTGEs5IKcmOO-jDF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7tjddV0UOPaG33svuhe-7" target="F7tjddV0UOPaG33svuhe-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F7tjddV0UOPaG33svuhe-7" value="治具转接板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="570" width="90" height="40" as="geometry" />
